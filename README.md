@@ -27,7 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samlorenzosanc&show_icons=true&locale=en" alt="samlorenzosanc" /></p>
 
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
