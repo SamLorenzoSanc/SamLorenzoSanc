@@ -162,4 +162,4 @@ Si trabajas en soporte y tienes un script que te ahorra tiempo, abre un PR. La �
 
 ---
 
-*Hecho por [Samuel Lorenzo](https://github.com/SamLorenzoSanc) — Security Engineer en construcción.*
+*Hecho por [Samuel Lorenzo](https://github.com/SamLorenzoSanc)
